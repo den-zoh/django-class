@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e2408e-acea-427e-af47-319c553c9d58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/onlinestore/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/onlinestore/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/onlinestore/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/onlinestore/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/onlinestore/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/onlinestore/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/templates/products/product_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/templates/products/product_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/products/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/uploads/ben-ostrower-i_Z1o10BPPk-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinestore/uploads/ev-gpjvRZyavZc-unsplash.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/onlinestore" />
+  </component>
+  <component name="ProjectId" id="1aUlzqtWgyLlxRBRZy9C3gtLt4Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\denni\Desktop\APIS\requests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e2408e-acea-427e-af47-319c553c9d58" name="Default Changelist" comment="" />
+      <created>1586798318590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586798318590</updated>
+      <workItem from="1586798320923" duration="13872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
